@@ -1,0 +1,13 @@
+C:\Users\Aleks\source\repos\UpCast\UpCast\bin\Debug\netcoreapp3.1\UpCast.exe
+C:\Users\Aleks\source\repos\UpCast\UpCast\bin\Debug\netcoreapp3.1\UpCast.deps.json
+C:\Users\Aleks\source\repos\UpCast\UpCast\bin\Debug\netcoreapp3.1\UpCast.runtimeconfig.json
+C:\Users\Aleks\source\repos\UpCast\UpCast\bin\Debug\netcoreapp3.1\UpCast.runtimeconfig.dev.json
+C:\Users\Aleks\source\repos\UpCast\UpCast\bin\Debug\netcoreapp3.1\UpCast.dll
+C:\Users\Aleks\source\repos\UpCast\UpCast\bin\Debug\netcoreapp3.1\UpCast.pdb
+C:\Users\Aleks\source\repos\UpCast\UpCast\obj\Debug\netcoreapp3.1\UpCast.csprojAssemblyReference.cache
+C:\Users\Aleks\source\repos\UpCast\UpCast\obj\Debug\netcoreapp3.1\UpCast.csproj.CoreCompileInputs.cache
+C:\Users\Aleks\source\repos\UpCast\UpCast\obj\Debug\netcoreapp3.1\UpCast.AssemblyInfoInputs.cache
+C:\Users\Aleks\source\repos\UpCast\UpCast\obj\Debug\netcoreapp3.1\UpCast.AssemblyInfo.cs
+C:\Users\Aleks\source\repos\UpCast\UpCast\obj\Debug\netcoreapp3.1\UpCast.dll
+C:\Users\Aleks\source\repos\UpCast\UpCast\obj\Debug\netcoreapp3.1\UpCast.pdb
+C:\Users\Aleks\source\repos\UpCast\UpCast\obj\Debug\netcoreapp3.1\UpCast.genruntimeconfig.cache
